@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Mochi talking</title>
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff4d8"/>
+      <stop offset="1" stop-color="#f4c991"/>
+    </linearGradient>
+  </defs>
+  <path fill="#d58e55" d="M47 52c-13-18-23-18-28-11-5 8 5 34 26 37l12-13zm66 0c13-18 23-18 28-11 5 8-5 34-26 37l-12-13z"/>
+  <path fill="#f5c78b" d="M50 124c-13 2-19 8-17 15 2 8 17 7 28 1zm60 0c13 2 19 8 17 15-2 8-17 7-28 1z"/>
+  <ellipse cx="80" cy="105" rx="49" ry="43" fill="url(#fur)"/>
+  <circle cx="80" cy="73" r="45" fill="url(#fur)"/>
+  <path fill="#fff8e8" d="M49 77c3 27 19 43 31 43s28-16 31-43c-9 11-20 15-31 15S58 88 49 77z"/>
+  <path d="M54 69c5-5 11-5 16 0m20 0c5-5 11-5 16 0" fill="none" stroke="#513b31" stroke-linecap="round" stroke-width="4"/>
+  <ellipse cx="80" cy="86" rx="10" ry="7" fill="#44312b"/>
+  <ellipse cx="80" cy="103" rx="13" ry="10" fill="#8b5147"/>
+  <path fill="#f19a98" d="M71 106c5-4 13-4 18 0-2 5-5 7-9 7s-7-2-9-7z"/>
+  <ellipse cx="48" cy="88" rx="8" ry="4" fill="#f39b8e" opacity=".6"/>
+  <ellipse cx="112" cy="88" rx="8" ry="4" fill="#f39b8e" opacity=".6"/>
+  <path fill="#efb878" d="M68 27c8-8 21-7 27 1-10-1-15 4-17 10-1-5-5-9-10-11z"/>
+</svg>

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "mochi",
+  "name": "Mochi",
+  "initialState": "idle",
+  "states": {
+    "idle": {
+      "asset": "/characters/mochi/idle.svg",
+      "animation": "idle-breathe"
+    },
+    "walk": {
+      "asset": "/characters/mochi/walk.svg",
+      "animation": "walk-cycle"
+    },
+    "sleep": {
+      "asset": "/characters/mochi/sleep.svg",
+      "animation": "sleep-breathe"
+    },
+    "talk": {
+      "asset": "/characters/mochi/talk.svg",
+      "animation": "talk-bounce"
+    }
+  }
+}

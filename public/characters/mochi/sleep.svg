@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Mochi sleeping</title>
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff4d8"/>
+      <stop offset="1" stop-color="#f4c991"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="83" cy="111" rx="57" ry="34" fill="url(#fur)"/>
+  <circle cx="65" cy="88" r="39" fill="url(#fur)"/>
+  <path fill="#d58e55" d="M39 70c-16-12-25-7-24 2 1 12 12 28 31 26l8-16z"/>
+  <path fill="#d58e55" d="M88 67c14-13 24-10 26-2 3 11-7 29-22 33l-12-14z"/>
+  <path fill="#fff8e8" d="M39 91c4 21 15 33 28 33 12 0 23-11 28-31-9 8-18 11-28 11S48 100 39 91z"/>
+  <path d="M45 87c6 5 12 5 18 0m17 0c6 5 12 5 17 0" fill="none" stroke="#513b31" stroke-linecap="round" stroke-width="4"/>
+  <ellipse cx="69" cy="102" rx="9" ry="6" fill="#44312b"/>
+  <path d="M69 108c1 7 9 9 14 4" fill="none" stroke="#6f4c3e" stroke-linecap="round" stroke-width="3"/>
+  <path fill="#efb878" d="M52 50c8-8 20-6 25 2-9-1-14 3-16 9-1-5-4-8-9-11z"/>
+  <path fill="#f5c78b" d="M112 119c18 0 29 8 27 16-3 9-24 7-38-1z"/>
+</svg>
